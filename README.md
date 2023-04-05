@@ -1,6 +1,9 @@
 # 💫 About Me:
- Olá! Eu sou Henry e sou apaixonado por 🚀 tecnologia e 💻 programação. Tenho experiência com 🌐 desenvolvimento web e 💾 bancos de dados, mas meu ❤️ está mesmo em 🟢 Node.js e Go 💙! Com eles, posso criar aplicações 🚀 escaláveis e eficientes. Além disso, também gosto de trabalhar com 🐳 Docker e outras tecnologias . Vamos 🤝 colaborar em um projeto?
- Tenho alguns projetos privados, com o tempo vou liberando !
+👋 Olá! Meu nome é Henry e eu sou apaixonado por 🚀 tecnologia e 💻 programação. Tenho experiência com 🌐 desenvolvimento web e 💾 bancos de dados, mas meu ❤️ está dividido entre 🟢 Node.js e 💙 Go! Com eles, posso criar aplicações 🚀 escaláveis e eficientes.
+
+Além disso, eu adoro trabalhar com 🐳 Docker e outras ferramentas de orquestração de contêineres para facilitar o desenvolvimento e a implantação de minhas aplicações.
+
+Atualmente, tenho alguns projetos privados em andamento, mas estou sempre buscando novas oportunidades de 🤝 colaboração em projetos interessantes e desafiadores. Então, se você tiver um projeto legal em mente, vamos conversar! 😉
 
 
 ## 🌐 Socials:
